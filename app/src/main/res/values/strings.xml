@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioPlay</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="pause_audio">Pause Audio</string>
+    <string name="stop_audio">Stop Audio</string>
+</resources>
